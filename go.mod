@@ -1,3 +1,3 @@
-module github.com/learningGo/workspace_lib
+module github.com/filipvladilie/workspace_lib
 
 go 1.23.3
